@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="saved_user">saved_user</string>
+    <string name="response_error">Ops! Algo deu errado</string>
+    <string name="user_name_empty">user</string>
+    <string name="request_failed">Erro ao chamar o recurso!</string>
+</resources>
